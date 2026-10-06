@@ -1,0 +1,30 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="172" height="101" viewBox="0 0 172 101" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 2" filter="url(#filter0_d_0_57)">
+<rect id="Rectangle 9" x="4" y="5" width="164" height="88" rx="8" fill="#7D7D7D"/>
+<rect id="Rectangle 10" x="31" width="99" height="15" rx="3" fill="#7D7D7D"/>
+<circle id="Ellipse 1" cx="46.5" cy="49.5" r="26.5" fill="#606060"/>
+<path id="Ellipse 2" d="M68 49.5C68 61.3741 58.3741 71 46.5 71C34.6259 71 25 61.3741 25 49.5C25 37.6259 34.6259 28 46.5 28C58.3741 28 68 37.6259 68 49.5Z" fill="#393939"/>
+<path id="Ellipse 3" d="M66 49.5C66 60.2696 57.2696 69 46.5 69C35.7304 69 27 60.2696 27 49.5C27 38.7304 35.7304 30 46.5 30C57.2696 30 66 38.7304 66 49.5Z" fill="#262626"/>
+<rect id="Rectangle 11" x="144" width="17" height="15" rx="3" fill="#7D7D7D"/>
+<rect id="Rectangle 12" x="106" y="13" width="39" height="72" rx="3" fill="#2F2F2F"/>
+<rect id="Rectangle 18" x="155" y="13" width="3" height="72" rx="1.5" fill="#2F2F2F"/>
+<rect id="Rectangle 13" x="83" y="13" width="20" height="12" rx="3" fill="#9A9A9A"/>
+<rect id="Rectangle 14" x="83" y="28" width="20" height="12" rx="3" fill="#9A9A9A"/>
+<rect id="Rectangle 19" x="152" y="23" width="9" height="14" rx="2" fill="#2F2F2F"/>
+<rect id="Rectangle 15" x="83" y="43" width="20" height="12" rx="3" fill="#9A9A9A"/>
+<rect id="Rectangle 16" x="83" y="58" width="20" height="12" rx="3" fill="#9A9A9A"/>
+<rect id="Rectangle 17" x="83" y="73" width="20" height="12" rx="3" fill="#9A9A9A"/>
+</g>
+<defs>
+<filter id="filter0_d_0_57" x="0" y="0" width="172" height="101" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_57"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_57" result="shape"/>
+</filter>
+</defs>
+</svg>
